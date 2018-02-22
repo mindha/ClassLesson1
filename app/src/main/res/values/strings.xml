@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="benar">True</string>
+    <string name="salah">False</string>
+    <string name="question">Constatinopel is the largest city in Turkey?</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="correct_toast">Correct!</string>
+</resources>
